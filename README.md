@@ -24,3 +24,6 @@
 
 # Footer 추가
 - footer.md 파일 추가
+
+# Sidebar 추가
+- sidebar.md 파일 추가
