@@ -7,3 +7,5 @@
 - About
 - Info
 - Contact Us
+
+- 내비게이현 업데이트
